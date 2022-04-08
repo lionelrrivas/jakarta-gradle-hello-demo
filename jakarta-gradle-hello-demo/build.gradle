@@ -16,3 +16,5 @@ dependencies {
 tasks.named('test') {
     useJUnitPlatform()
 }
+
+gretty.httpPort=8090
