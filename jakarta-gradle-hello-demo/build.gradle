@@ -22,5 +22,5 @@ tasks.named('test') {
 
 gretty.httpPort=8090
 
-test.finalizedBy jacocoTestReport
-jacocoTestReport.dependsOn test
+//test.finalizedBy jacocoTestReport
+//jacocoTestReport.dependsOn test
